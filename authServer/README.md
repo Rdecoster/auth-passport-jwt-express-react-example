@@ -1,5 +1,6 @@
-#This is a backend repo showing how implementing a JWT token strategy with Passport-jwt for authentication.
-###TODO
+This is a backend repo showing how implementing a JWT token strategy with Passport-jwt for authentication.
+
+TODO
 Make sure Mongodb is running and installed
 
 Note you need to create a .env file and add in the following paramaters

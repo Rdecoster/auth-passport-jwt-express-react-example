@@ -2,7 +2,7 @@
 
 # dependencies
 /node_modules
-/auth-react-copy/node_modules
+/auth-react1/node_modules
 /.pnp
 .pnp.js
 
